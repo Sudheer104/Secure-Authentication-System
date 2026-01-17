@@ -11,7 +11,11 @@ node_modules
 dist
 dist-ssr
 *.local
-.updateprofiles.js
+
+src/Pages/updateProfiles.js
+.env.development
+.env.production
+
 
 # Editor directories and files
 .vscode/*
