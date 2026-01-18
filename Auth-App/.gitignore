@@ -12,9 +12,16 @@ dist
 dist-ssr
 *.local
 
+# Ignore all environment files
+.env*  
+# OR
+# .env
+# .env.development
+# .env.production
+
+# Ignore this file
 src/Pages/updateProfiles.js
-.env.development
-.env.production
+
 
 
 # Editor directories and files
